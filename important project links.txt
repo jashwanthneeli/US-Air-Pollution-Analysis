@@ -1,0 +1,7 @@
+Dataset taken from the kaggle link:
+https://www.kaggle.com/datasets/sogun3/uspollution/code
+
+
+Code is here:
+https://docs.google.com/document/d/1719J50fXgsM0CX_TrzB0UWdUlWcKIzQaBO5LcpWasN8/edit?usp=sharing
+
